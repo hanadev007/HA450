@@ -1,0 +1,9 @@
+{ 
+"host": "localhost",
+"port": "30015",
+"user": "STUDENT##",
+"password": "Training1",
+"driver": "com.sap.db.jdbc.Driver",
+"tags": ["hana"] ,
+"schema" : "BOX##" 
+}
